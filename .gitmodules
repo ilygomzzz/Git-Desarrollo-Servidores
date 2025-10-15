@@ -1,3 +1,7 @@
 [submodule "daw2-bookstore-domain"]
     path = daw2-bookstore-domain
     url = git@github.com:ilygomzzz/daw2-bookstore-domain.git
+
+[submodule "daw2-bookstore-persistence"]
+    path = daw2-bookstore-persistence
+    url = git@github.com:ilygomzzz/daw2-bookstore-persistence.git
