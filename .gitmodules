@@ -5,3 +5,7 @@
 [submodule "daw2-bookstore-persistence"]
     path = daw2-bookstore-persistence
     url = git@github.com:ilygomzzz/daw2-bookstore-persistence.git
+
+[submodule "Proyecto-Examen-JavierPrueba"]
+    path = Proyecto-Examen-JavierPrueba
+    url = git@github.com:ilygomzzz/Servidores-3-Capas-Juntas.git
